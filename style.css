@@ -1,0 +1,222 @@
+    @media (min-width: 1400px) {
+        .container {
+            max-width: 1160px;
+        }
+    }
+
+    header {
+        background-color: #141024;
+        color: #fff;
+        padding: 40px 25px 0 25px;
+    }
+
+    h1 {
+        padding: 200px 0 25px 0;
+        font-size: 70px;
+        font-weight: 600;  
+    }
+
+    .header-descr {
+        font-size: 43.9px;
+        padding-bottom: 20px;
+    }
+
+    .btn-danger {
+        padding: 25px 54px;
+        background: red;
+        font-size: 18px;
+        font-weight: 400;
+        border: 3px solid ;
+    }
+
+    .main-img {
+        max-width: 550px;
+    }
+
+    .about .perspectives, .team {
+        padding: 120px 0;
+    }
+
+    .about-item-heading {
+        font-size: 70px;
+        font-weight: 600;
+        color: red;
+    }
+
+    .about-item-text, .pers-item-text, .team-item-text {
+        font-size: 18px;
+        color: #141024B2;
+    }
+
+    h3 {
+        font-size: 24px;
+        font-weight: 600;
+        margin-bottom: 20px;
+    }
+
+    h2 {
+        font-size: 45px;
+        font-weight: 60px;
+        margin-bottom: 20px;
+    }
+
+    .perspectives {
+        padding: 120px 0;
+    }
+
+    .btn-danger:hover {
+        background:#fff;
+        color: red;
+        border: 3px solid;
+        border-color: red;
+    }
+
+    .intro {
+        background: #141;
+        color: #fff;
+    }
+
+    .perspectives {
+        background: #fff;
+    }
+
+    .btn-link {
+        padding-left: 0;
+        padding-right: 0;
+        text-decoration: none;
+        color: #ff0008;
+    }
+
+    .team-item-img {
+        margin-bottom: 20px;
+        border-radius: 20px;
+    }
+
+    .pers-h2, .team-h2 {
+        font-size: 50px;
+        font-weight: 600;
+    }
+
+    .price-card {
+        border: 1px solid rgba(20, 16, 36, 0.2);
+        padding: 45px;
+        border-radius: 20px;    
+        transition: 500ms;
+    }
+
+    .price-card > h3 {
+        font-size: 30px;
+        font-weight: 600;
+        margin: 25px 0 59px 0;
+    }
+
+    .price-card > span {
+        font-size: 50px;
+        font-weight: 600;
+    }
+
+    .price-card > p {
+        font-size: 18px;
+        font-weight: 400;
+        color: rgb(0, 0, 0);
+        margin: 0 0 50px 0;
+    }
+
+    .price-card:hover {
+        background: rgba(0, 0, 0, 0.945);
+        color: #fff;
+        transition: 500ms;
+        padding: 50px 0 60px 0;
+    }
+
+    .forms {
+        background: rgb(241, 22, 22);
+        color: #000000;
+        background-position: bottom;
+        background-repeat: no-repeat;
+        background-size: contain;
+            padding: 45px;
+        border-radius: 20px;  
+    }
+
+    .forms > div > div > div > h3 {
+        font-size: 40px;
+        font-weight: 600;
+        line-height: 46.8px;
+        margin: 0 0 20px 0;
+    }
+
+    .forms > div > div > div > p {
+        font-size: 20px;
+        font-weight: 400;
+        
+    }
+
+    .forms > div > div > div > button {
+        transition: 700ms;
+        
+    }
+
+    .btn-dark {
+        width: 100%;
+        padding: 20px;
+        margin-bottom: 10px;
+        border-color: transparent;
+    }
+
+    .form-control::placeholder {        
+        color: rgb(0, 0, 0);
+        font-size: 18px;
+    }
+
+    .btn-dark:hover {
+        background: #fff;
+        color: red;
+        border-color: transparent;
+        transition: 750ms;
+    }
+
+    .forms {
+        background: #D52027 ;
+        color:#fff;
+        background-image: url(percent);
+        background-position: bottom;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+
+    footer {
+        background: #141024;
+        padding: 40px 0;
+    }
+
+    .footer-desc {
+        color: rgba(255, 255, 255, 0.7);
+        margin-top: 15px;
+    }
+
+    .tel {
+        font-size: 30px;
+        font-weight: 600;
+        color: #fff;
+        transition: 20000ms;
+    }
+
+    .tel:hover {
+        color:#D52027;
+        transition: 500ms;
+    }
+
+    .a {
+        text-decoration: none!important;
+    }
+
+    .nav-link {
+        color: #fff;
+        font-size: 20px;
+        margin: 0 25px;
+    }
+
+    .nav-link:hover {
+        color: #ffffffae;
+    }
